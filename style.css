@@ -1,0 +1,30 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+  
+}
+.orange{
+    color: orange;
+}
+section{
+    display: flex;
+}
+.width{
+    width: 50%;
+    padding-left: 5%;
+}
+.width image{
+    width: 100%;
+}
+.button{
+    text-decoration: none;
+    color: orange;
+    background-color: lightblue;
+    padding: 10px 40px;
+}
+.home{
+
+    background: linear-gradient(45deg, #378656, #090B22);
+    height: 100vh}
